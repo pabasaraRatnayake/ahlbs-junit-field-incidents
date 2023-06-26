@@ -8,6 +8,7 @@ public class AhlbsJunitTestingApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AhlbsJunitTestingApplication.class, args);
+		System.out.println("Application started!");
 	}
 
 }
